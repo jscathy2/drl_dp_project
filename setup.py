@@ -39,7 +39,7 @@ setup(
         "Programming Language :: Python :: Implementation :: CPython",
         "Programming Language :: Python :: Implementation :: PyPy",
     ],
-    keywords="Reinforcement Learning, Finance",
+    keywords="",
     platform=["any"],
     python_requires=">=3.7",
 )
