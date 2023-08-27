@@ -1,0 +1,8 @@
+numpy
+gymnasium
+torch
+pytorch-lightning
+matplotlib
+pandas
+scikit-learn>=0.21.0
+setuptools>=65.5.0
